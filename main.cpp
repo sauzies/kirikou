@@ -21,6 +21,7 @@ using namespace std;
 int main(int argc, char** argv) {
     cout << "coucou"<< endl;
     cout << "coucou2"<< endl;
+    cout << "allez" << endl;
     return 0;
 }
 
