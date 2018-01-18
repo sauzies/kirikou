@@ -12,7 +12,7 @@
  */
 
 #include <cstdlib>
-
+#include <iostream>
 using namespace std;
 
 /*
@@ -24,6 +24,7 @@ int main(int argc, char** argv) {
     cout << "allez" << endl;
     cout << "allez2" << endl;
     cout << "SALUT LES TOCAAAAARDS" << endl;
+    cout << "allez3" << endl;
     return 0;
 }
 
